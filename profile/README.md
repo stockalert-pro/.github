@@ -18,11 +18,11 @@ StockAlert.pro monitors stock prices in real-time and sends instant notification
 ## 📦 Official SDKs & Integrations
 
 ### JavaScript/TypeScript SDK
-[![npm version](https://img.shields.io/npm/v/@stockalert/js-sdk.svg)](https://www.npmjs.com/package/@stockalert/js-sdk)
+[![npm version](https://img.shields.io/npm/v/stockalert.svg)](https://www.npmjs.com/package/stockalert)
 [![GitHub](https://img.shields.io/github/stars/stockalert-pro/js-sdk?style=social)](https://github.com/stockalert-pro/js-sdk)
 
 ```bash
-npm install @stockalert/js-sdk
+npm install stockalert
 ```
 
 [View Repository](https://github.com/stockalert-pro/js-sdk) | [Documentation](https://stockalert.pro/api/docs/sdks)
@@ -58,7 +58,7 @@ Sign up for a free account at [stockalert.pro](https://stockalert.pro) and gener
 
 #### Using JavaScript
 ```javascript
-import { StockAlertClient } from '@stockalert/js-sdk';
+import { StockAlertClient } from 'stockalert';
 
 const client = new StockAlertClient('your-api-key');
 
@@ -205,7 +205,7 @@ Security is our top priority. If you discover a security vulnerability, please e
 ## 🌟 Stay Updated
 
 - Star our repositories to stay updated with new features
-- Follow us on [Twitter](https://twitter.com/stockalertpro) for announcements
+- Follow us on [Twitter](https://twitter.com/StockAlertX) for announcements
 - Join our [GitHub Discussions](https://github.com/orgs/stockalert-pro/discussions) to connect with other developers
 
 ---
