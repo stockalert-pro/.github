@@ -2,6 +2,8 @@
 
 Welcome to the official open source organization for [StockAlert.pro](https://stockalert.pro) - a powerful real-time stock monitoring platform that helps investors track market movements and receive instant notifications.
 
+![StockAlert.pro Platform](https://stockalert.pro/images/hero-black.png)
+
 ## 🚀 What is StockAlert.pro?
 
 StockAlert.pro monitors stock prices in real-time and sends instant notifications when your defined conditions are met. Whether you're tracking price targets, technical indicators, or fundamental metrics, we've got you covered.
