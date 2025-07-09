@@ -38,7 +38,7 @@ pip install stockalert
 [View Repository](https://github.com/stockalert-pro/python-sdk) | [Documentation](https://stockalert.pro/api/docs/sdks)
 
 ### Slack App
-[![GitHub](https://img.shields.io/github/stars/stockalert-pro/slack-app?style=social)](https://github.com/stockalert-pro/slack-app)
+[![GitHub](https://img.shields.io/github/stars/stockalert-pro/slack-app?style=social)](https://github.com/stockalert-pro/stockalert-slack-app)
 
 Receive StockAlert notifications directly in your Slack workspace.
 
