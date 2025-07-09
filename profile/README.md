@@ -42,7 +42,7 @@ pip install stockalert
 
 Receive StockAlert notifications directly in your Slack workspace.
 
-[View Repository]([https://github.com/stockalert-pro/slack-app](https://github.com/stockalert-pro/stockalert-slack-app)) | [Add to Slack](https://slack.stockalert.pro/)
+[View Repository](https://github.com/stockalert-pro/stockalert-slack-app) | [Add to Slack](https://slack.stockalert.pro/)
 
 ### n8n Integration
 Connect StockAlert.pro with 400+ apps using n8n workflow automation.
