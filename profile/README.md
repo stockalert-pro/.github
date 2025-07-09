@@ -47,7 +47,7 @@ Receive StockAlert notifications directly in your Slack workspace.
 ### n8n Integration
 Connect StockAlert.pro with 400+ apps using n8n workflow automation.
 
-[Learn More]([https://stockalert.pro/api/docs/examples#n8n-workflow-automation](https://github.com/stockalert-pro/n8n-nodes-stockalert))
+[Learn More](https://github.com/stockalert-pro/n8n-nodes-stockalert)
 
 ## 🛠️ Quick Start
 
